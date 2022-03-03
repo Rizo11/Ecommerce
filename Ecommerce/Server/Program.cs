@@ -1,6 +1,6 @@
 global using Ecommerce.Shared;
 global using Microsoft.EntityFrameworkCore;
-using Ecommerce.Server.Controllers.Data;
+global using Ecommerce.Server.Controllers.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,0 +1,1 @@
+This is a Ecommece project on Blazor WASM

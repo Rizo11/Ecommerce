@@ -1,1 +1,1 @@
-This is a Ecommece project on Blazor WASM
+This is an Ecommece project on Blazor WASM
